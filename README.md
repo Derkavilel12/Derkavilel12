@@ -21,7 +21,7 @@
 
 💻📝 Aprendiendo desarrollo de software y todo sobre computadoras 
 
-solo voy a decir que tengo más de 15 para no sentirme viejo🙈
+- solo voy a decir que tengo más de 15 para no sentirme viejo🙈
 
 📫 Contacto: **65338529**
 <!--Intro end-->
